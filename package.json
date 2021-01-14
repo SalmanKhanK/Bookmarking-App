@@ -16,8 +16,12 @@
   },
   "license": "0BSD",
   "dependencies": {
+    "@apollo/client": "^3.3.6",
+    "cross-fetch": "^3.0.6",
+    "formik": "^2.2.6",
     "gatsby": "^2.26.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "yup": "^0.32.8"
   }
 }
